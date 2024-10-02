@@ -4,8 +4,8 @@ let randomNumber = Math.floor(Math.random() * 20) + 1;
       let guess = parseInt(document.getElementById("guessInput").value);
 
       if (guess === randomNumber) {
-        document.getElementById("result").innerHTML = "Correct!";
+        document.getElementById("result-message").innerHTML = "Correct!";
       } else {
-        document.getElementById("result").innerHTML = "Wrong, it was " + randomNumber;
+        document.getElementById("result-message").innerHTML = "Wrong, it was " + randomNumber;
       }
     }
