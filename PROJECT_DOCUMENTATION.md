@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+Making a simple guessing game where the user tries to guess a randomly generated number.
 
 ## Team Members:
 
--   Name 1
+-   Ranindi Gunasekera
 -   Name 2
 -   Name 3
 
