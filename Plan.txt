@@ -1,0 +1,7 @@
+Title, GUESS THE NUMBER
+Sub Title, Can You Guess The Number Between 1 and 20
+
+Number input field
+Submit button
+
+Changes to "Correct!" or "Wrong, it was [Number]"
