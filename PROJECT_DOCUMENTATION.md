@@ -7,7 +7,7 @@ Making a simple guessing game where the user tries to guess a randomly generated
 ## Team Members:
 
 -   Ranindi Gunasekera
--   Name 2
+-   Mackinley Wanless
 -   Name 3
 
 ## Member Contributions:
