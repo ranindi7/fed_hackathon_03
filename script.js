@@ -24,9 +24,15 @@ function resetGame() {
 
   // Update the hidden answer
   document.getElementById("answer").textContent = randomNumber;
+  document.getElementById("answer").style.display = "none"; // Hide it initially
+}
+
+function showAnswer() {
+  document.getElementById("answer").style.display = "inline"; // Make it visible
 }
 
 // Initial hint display and answer
 document.getElementById("numberBelow").textContent = numberBelow;
 document.getElementById("numberAbove").textContent = numberAbove;
 document.getElementById("answer").textContent = randomNumber;
+document.getElementById("answer").style.display = "none"; // Hide it initially
