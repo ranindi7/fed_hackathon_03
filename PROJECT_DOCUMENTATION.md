@@ -8,7 +8,7 @@ Making a simple guessing game where the user tries to guess a randomly generated
 
 -   Ranindi Gunasekera
 -   Mackinley Wanless
--   Name 3
+-   Ramandeep Kaur
 
 ## Member Contributions:
 
@@ -18,7 +18,7 @@ Making a simple guessing game where the user tries to guess a randomly generated
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Primary Java Script coder
 
 ### Name 3:
 
