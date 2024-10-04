@@ -12,14 +12,14 @@ Making a simple guessing game where the user tries to guess a randomly generated
 
 ## Member Contributions:
 
-### Name 1:
+### Ranindi Gunasekera:
 
--   Worked on [specific elements] of the webpage.
+-   Created repository and necessary files and worked on coding HTML and collectively reviewing changes.
 
-### Name 2:
+### Mackinley Wanless:
 
 -   Primary Java Script coder
 
-### Name 3:
+### Ramandeep Kaur:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Coded CSS and collectively reviewed necessary changes. 
