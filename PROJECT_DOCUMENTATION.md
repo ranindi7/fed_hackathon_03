@@ -14,7 +14,7 @@ Making a simple guessing game where the user tries to guess a randomly generated
 
 ### Ranindi Gunasekera:
 
--   Created repository and necessary files and worked on coding HTML and collectively reviewing changes.
+-   Created repository and necessary files, worked on coding HTML and collectively reviewed changes.
 
 ### Mackinley Wanless:
 
